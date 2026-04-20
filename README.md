@@ -56,7 +56,7 @@ National Senior Certificate | Matric: 2022
 height="500" allowfullscreen></iframe> 
 
 
-## Reflection on Coding in Markdown
+# Reflection on Coding in Markdown
 ##  Situation
 In this project, I was required to create my digital portfolio using Markdown on GitHub. Before this, I had no experience working with Markdown and was more familiar with tools like Microsoft Word.
 
@@ -69,7 +69,7 @@ I started by researching basic Markdown syntax such as headings, lists, links, a
 ## Result
 As a result, I gained a better understanding of how Markdown works and how it is used in real-world development environments. I am now more confident in writing and formatting content using Markdown. This skill will be useful in future projects, especially when working with GitHub and documentation.
 
-##  Reflection on Mock Interview Experience 
+#  Reflection on Mock Interview Experience 
 
 ## Situation
 As part of the projectg, I was required to record a mock interview video. This was a new experience for me, and I initially felt nervous speaking on camera.
@@ -83,7 +83,7 @@ To prepare, I looked at the questions provided in our studyguide and practiced m
 ## Result
 Through this experience, I improved my communication skills and became more confident in presenting myself. I also realized the importance of preparation and body language during interviews. This activity helped me understand what employers expect and how to present myself effectively in a professional enviroment.
 
-## Reflection on Using GitHub Pages 
+# Reflection on Using GitHub Pages 
 
 ## Situation
 For this project, I was required to publish my digital portfolio using GitHub Pages. I had limited experience with using websites before this task as I'm more used to linkdin and other websites.
