@@ -52,8 +52,6 @@ National Senior Certificate | Matric: 2022
 
 ## Mock interview video
 
-<iframe src="https://drive.google.com/file/d/16T_5pJBw_EZve3gKkD-M1KjhSGsiLral/view?usp=sharing" width="100%"
-height="500" allowfullscreen></iframe> 
 
 https://youtube.com/shorts/PgfobdEtsB0
 
